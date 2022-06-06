@@ -12,7 +12,7 @@ This program matches a user to a randomly assigned country based on the user's c
 
 # How can I use this program?
 
-Open the "CIS7 Team Unlucky Final Project.cpp" file in a C++ editor, assemble it, and run the program.
+Open or Copy/Past the "CIS7 Team Unlucky Final Project.cpp" file in a C++ editor, assemble it, and run the program.
 
 # How does this program work?
 
