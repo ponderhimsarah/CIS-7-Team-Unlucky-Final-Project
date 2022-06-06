@@ -1,4 +1,4 @@
-# CIS-7-Team-Unlucky-Final-Project
+# CIS-7 Team Unlucky Final Project
 
 Final Project for a CIS-7 class. 
 
